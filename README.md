@@ -22,3 +22,11 @@ GreenOps & PhantomGrid is an AI-powered prototype built to help developers optim
 1.   **Input:** Paste a code snippet or enter a system task into the provided forms.
 2.   **AI Processing:** The backend communicates with Gemini to analyze efficiency or classify priority.
 3.   **Output:** View the **Analysis Report**, which includes efficiency scores, specific issues, and actionable fixes.
+
+## 📸 Project Screenshots
+
+### GreenOps AI: Code Analysis in Action
+![Analysis Screenshot](frontend/image1.png)
+
+
+![Result Status](frontend/image2.png)
